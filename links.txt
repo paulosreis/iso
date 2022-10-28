@@ -1,0 +1,7 @@
+https://www.dcce.ibilce.unesp.br/~aleardo/cursos/hpc/unixpar2020.pdf
+https://stackoverflow.com/questions/1352749/multiple-arguments-to-function-called-by-pthread-create
+https://gist.github.com/Sutil/56db845b95f5b27c33e1
+https://www.cin.ufpe.br/~cagf/if677/2018-1/slides/11_Threads.pdf
+https://acervolima.com/determinante-da-matriz-n-x-n-usando-multi-threading/
+https://wagnergaspar.com/como-alocar-uma-matriz-dinamica-em-c/
+https://www.inf.ufpr.br/roberto/ci067/14_alocmat.html
